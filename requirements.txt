@@ -1,0 +1,6 @@
+
+
+fastapi
+uvicorn[standard]
+pwdlib[argon2]
+PyJWT
